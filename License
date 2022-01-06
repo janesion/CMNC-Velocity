@@ -1,1 +1,9 @@
-Long.    Lat.         E & N Rate           E & N Adj.        E & N +-    RHO     SITE
+Velocities of CMONOC stations with respective to EURASIA plate from 1998-2018 
+
+Data Format:
+      Long.    Lat.         E & N Rate           E & N Adj.        E & N +-    RHO     SITE
+#  Long. — Longitude in angle degree
+#  Lat.  — Latitude in angle degree
+#  E & N Rate  — Velocity(mm/a) in east and north component (EURASIA plate)
+#  E & N Adj.  — Velocity(mm/a) in east and north component (ITRF2014) 
+#  SITE — station code
